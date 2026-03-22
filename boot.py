@@ -3,6 +3,7 @@ import urequests
 import machine
 import os
 import gc
+import webrepl_setup
 
 # 1. WiFi Config
 SSID = "APIS-PLS"
