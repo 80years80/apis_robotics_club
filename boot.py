@@ -9,7 +9,7 @@ import webrepl_setup
 SSID = "APIS-PLS"
 PASSWORD = "apispls@2025"
 # The IP of your SERVER (the computer holding the new files)
-SERVER_IP = "192.168.88.16" 
+#SERVER_IP = "192.168.88.16" 
 
 def connect_wifi():
     sta_if = network.WLAN(network.STA_IF)
